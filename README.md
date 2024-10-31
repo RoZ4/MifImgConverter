@@ -7,6 +7,7 @@ miftoimage.py will take in a .mif and output an image file
 
 To use the MifImgConverter, either clone this repository with
 >git clone (https://github.com/RoZ4/MifImgConverter.git)
+
 or copy the python script directly to your machine
 
 You will require the Python Imaging Library (Pillow) to be installed before using either conversion program
@@ -14,8 +15,11 @@ You will require the Python Imaging Library (Pillow) to be installed before usin
 ## How to Use
 In a command shell, run
 >	python miftoimage.py -h
+
 or
+
 >	python imagetomif.py -h
+
 to view the corrosponding commands for each conversion tool
 
 You will need to specify:
